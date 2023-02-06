@@ -1,0 +1,307 @@
+Chuck Norris has credits for everything but ____?
+Director/right answer
+Actor
+Writer
+Producer
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('101', 'ch-norris', 'Chuck Norris has credits for everything but ____?', 'Director', 'Actor\r\n', 'Writer\r\n', 'Producer', 'Dancer', 'answer-1');
+
+
+Chuck Norris is a card-carrying member of the ______?
+PTA
+CIA
+NRA/Right answer
+FBI
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('102', 'ch-norris', 'Chuck Norris is a card-carrying member of the ______?', 'PTA', 'CIA', 'NRA', 'FBI', 'DEA', 'answer-3');
+
+
+Chuck was born in what state?
+Oklahoma/right answer
+Texas
+Alabama
+California
+
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('103', 'ch-norris', 'Chuck was born in what state?', 'Oklahoma', 'Texas', 'Alabama', 'California', 'New York', 'answer-1');
+
+
+Before Chuck struck gold in Hollywood, what was his rise to fame?
+Cowboy
+Special Forces
+Martial artist/right answer
+Police Officer
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('104', 'ch-norris', 'Before Chuck struck gold in Hollywood, what was his rise to fame?', 'Cowboy', 'Special Forces', 'Martial artist', 'Police Officer', 'Detective', 'answer-3');
+
+How many children does Chuck have?
+2
+3
+4
+5/right answer
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('105', 'ch-norris', 'How many children does Chuck have?', '2', 'Special 3', '4', '5', '6', 'answer-4');
+_________________________________________________________________________________________________
+
+Chuck has written several books on _____?
+NRA
+Christianity/right answer
+Hurricanes
+Marriage
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('106', 'ch-norris', 'Chuck has written several books on _____?', 'NRA', 'Christianity', 'Hurricanes', 'Marriage', 'Teaching', 'answer-2');
+
+Chuck is a member of the _________ party?
+Republican/right answer
+Democratic
+Independent
+Communist
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('107', 'Chuck is a member of the _________ party?', 'Republican', 'Democratic', 'Independent', 'Communist', 'Anarchy', 'answer-1');
+
+
+What branch of the military did Chuck serve?
+Air Force/right answer
+Army
+Navy
+Coast Guard
+
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('108', 'What branch of the military did Chuck serve?', 'Air Force', 'Army', 'Navy', 'Coast Guard', 'Ranger', 'answer-1');
+
+
+Why did Chuck make martial arts history in 1990?
+Ranked as a 5th Degree Brown Belt Grand Master.
+Ranked as a 7th Degree Yellow Belt Grand Master.
+Ranked as a 9th Degree Purple Belt Grand Master.
+Ranked as an 8th Degree Black Belt Grand Master./right answer
+
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('109', 'Why did Chuck make martial arts history in 1990?', 'Ranked as a 5th Degree Brown Belt Grand Master.', 'Ranked as a 7th Degree Yellow Belt Grand Master.', 'Ranked as a 9th Degree Purple Belt Grand Master.', 'Ranked as an 8th Degree Black Belt Grand Master.', 'Ranked as an 8th Degree Green Belt Grand Master.', 'answer-4');
+
+Chuck’s acting debut was in?
+“Happy Days”
+“The Wrecking Crew”/right answer
+“Delta Force”
+“Rambo”
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('110','ch-norris', 'Chuck’s acting debut was in?', 'Happy Days', 'The Wrecking Crew', 'Delta Force', 'Rambo', 'Texas Ranger', 'answer-2');
+
+
+Where did Chuck’s family move when he was 12 years old?
+Boulder, CO
+New York, NY
+Torrance, CA/right answer
+Dallas, TX
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('111','ch-norris', 'Where did Chuck’s family move when he was 12 years old?', 'Boulder, CO', 'New York, NY', 'Torrance, CA', 'Dallas, TX', 'Miami,FL', 'answer-3');
+
+
+What is Chuck Norris’s birth name?
+Jesus May Norris
+Juan Dave Norris
+Carlos Ray Norris/right answer
+Cancun Bay Norris
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('112', 'ch-norris','What is Chuck Norris’s birth name?', 'Jesus May Norris', 'Juan Dave Norris', 'Carlos Ray Norris', 'Cancun Bay Norris', 'Peter Dawg Norris', 'answer-3');
+
+
+Who talked Chuck into transitioning from martial arts instructor to actor?
+Steve McQueen/right answer
+David Carradine
+James Dean
+Clint Eastwood
+
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('113', 'ch-norris','Who talked Chuck into transitioning from martial arts instructor to actor?', 'Steve McQueen', 'David Carradine', 'James Dean', 'Clint Eastwood', 'Richard Gere', 'answer-1');
+
+
+Who did Chuck dedicate his ‘Missing in Action’ films to?
+President Regan
+Wieland Norris/right answer
+Aaron Norris
+Kirk Douglas
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('114','ch-norris', 'Who did Chuck dedicate his ‘Missing in Action’ films to?', 'President Regan', 'Wieland Norris', 'Aaron Norris', 'Kirk Douglas', 'Mark Wahlberg', 'answer-2');
+
+
+Chuck played Bruce Lee’s nemesis in what movie?
+‘Way of the Dragon’/right answer
+‘Night of the Dragon’
+‘Rain of the Dragon’
+‘Flight of the Dragon’
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('115','ch-norris', 'Chuck played Bruce Lee’s nemesis in what movie?', 'Way of the Dragon', 'Night of the Dragon', 'Rain of the Dragon', 'Flight of the Dragon', 'Dragon Heart', 'answer-1');
+
+
+Chuck’s first starring role was in what movie?
+‘How the West was Won’
+‘L.A. Confidential’
+‘Breaker! Breaker!’/right answer
+‘Gunsmoke’
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('116','ch-norris', 'Chuck’s first starring role was in what movie?', 'How the West was Won', 'L.A. Confidential', 'Breaker! Breaker!', 'Gunsmoke', 'Total Bang', 'answer-3');
+
+
+The name of Chuck’s character in ‘Black Tigers?’
+John P. Booker
+John T. Booker/right answer
+John D. Booker
+John F. Booker
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('117','ch-norris', 'The name of Chuck’s character in ‘Black Tigers?', 'John P. Booker', 'John T. Booker', 'John D. Booker', 'John F. Booker', 'Jason B. Ourne', 'answer-2');
+
+
+What is the original title of the movie “Black Tigers?’
+‘Bad Guys Wear Black’
+‘Good Guys Wear Black’/right answer
+‘Good Guys Wear Blue’
+‘Naughty Guys Wear Black’
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('118','ch-norris', 'What is the original title of the movie “Black Tigers?', 'Bad Guys Wear Black', 'Good Guys Wear Black', 'Good Guys Wear Blue', 'Naughty Guys Wear Black', 'Nice Guys Wear Pink', 'answer-2');
+
+
+Chuck has appeared with _____ in a long-running series of cable TV infomercials?
+Linda Evangelista
+Christie Brinkley/right answer
+Cindy Crawford
+Naomi Campbell
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('119','ch-norris', 'Chuck has appeared with _____ in a long-running series of cable TV infomercials?', 'Linda Evangelista', 'Christie Brinkley', 'Cindy Crawford', 'Naomi Campbell', 'Whitney Houston', 'answer-2');
+
+
+What is the product Chuck and Christie promoted?
+Total Gym/right answer
+Get Rich Quick
+Belly Burn
+Strawberry Festive
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('120','ch-norris', 'What is the product Chuck and Christie promoted?', 'Total Gym', 'Get Rich Quick', 'Belly Burn', 'Strawberry Festive', 'Bee Honey', 'answer-1');
+
+
+Chuck created 'Chun Kuk Do' based on elements from every combat style he knew plus _______?
+Judo
+Aikido
+Tang Soo Do/right answer
+Taekwondo
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('121','ch-norris', 'Chuck created 'Chun Kuk Do' based on elements from every combat style he knew plus _______?', 'Judo', 'Aikido', 'Tang Soo Do', 'Taekwondo', 'Tai-Chi', 'answer-3');
+
+
+Chun Kuk Do includes a code of honor and rules to live by. How many rules are there?
+3
+5
+7
+10/right answer
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('122','ch-norris', 'Chun Kuk Do includes a code of honor and rules to live by. How many rules are there?', '3', '5', '7', '10', '15', 'answer-4');
+
+
+In the movie, ‘Force of One” Chuck plays _______?
+Matt Logan/right answer
+Jason Bourn
+Harry Jones
+John McClane
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('123','ch-norris', 'In the movie, ‘Force of One” Chuck plays _______?', 'Matt Logan', 'Jason Bourn', 'Harry Jones', 'John McClane', 'Bruce Wayne', 'answer-1');
+
+
+
+Chuck played ________ in the “Missing in Action” movies.
+Colonel Johnathan Braddock
+Colonel James Braddock/right answer
+Colonel Christian Braddock
+Colonel Stephan Braddock
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('124','ch-norris', 'Chuck played ________ in the “Missing in Action” movies.', 'Colonel Johnathan Braddock', 'Colonel James Braddock', 'Colonel Christian Braddock', 'Colonel Stephan Braddock', 'Colonel Lee Braddock', 'answer-2');
+
+
+In the movie “The Delta Force’ Chuck plays ______?
+Major Jim McCoy
+Major Kurt McCoy
+Major John McCoy
+Major Scott McCoy/right answer
+
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('125','ch-norris', 'In the movie “The Delta Force’ Chuck plays ______?', 'Major Jim McCoy', 'Major Kurt McCoy', 'Major John McCoy', 'Major Scott McCoy', 'Major Daniel McCoy', 'answer-4');
+
+
+Chuck appeared in commercials for what American soft drink?
+Coke
+Pepsi
+Mountain Dew/right answer
+Dr. Pepper
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('126','ch-norris', 'Chuck appeared in commercials for what American soft drink?', 'Coke', 'Pepsi', 'Mountain Dew', 'Dr. Pepper', 'Vitamin Water', 'answer-3');
+
+
+Norris is a well-known _______?
+Philanthropist/right answer
+Captain
+Criminal
+Restaurant owner
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('127','ch-norris', 'Norris is a well-known _______?', 'Philanthropist', 'Captain', 'Criminal', 'Restaurant owner', 'Pilot', 'answer-1');
+
+
+Chuck had his own line of ______?
+Cars
+Jeans/right answer
+Shirts
+Shoes
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('128','ch-norris', 'Chuck had his own line of ______?', 'Cars', 'Jeans', 'Hats', 'Shirts', 'Shoes', 'answer-2');
+
+
+How many consecutive years did Chuck hold the title of the World Championship in full contact karate?
+3
+4
+5
+6/right answer
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('129','ch-norris', 'How many consecutive years did Chuck hold the title of the World Championship in full contact karate?', '3', '4', '5', '6', '8', 'answer-4');
+
+
+Who does Chuck boast is the most famous partner he ever took on in martial arts?
+Steve McQueen
+Clint Eastwood
+Bruce Lee/right answer
+Jet Li
+
+INSERT INTO `questions` (`id`, `topic`, `question_text`, `answer-1`, `answer-2`, `answer-3`, `answer-4`, `answer-5`, `correct`) VALUES ('130','ch-norris', 'Who does Chuck boast is the most famous partner he ever took on in martial arts?', 'Steve McQueen', 'Clint Eastwood', 'Bruce Lee', 'Jet Li', 'Mike Tyson', 'answer-3');
+
+
+Chuck starred in what long-running TV series?
+‘Dukes of Hazzard’
+‘Matlock’
+‘Walker, Texas Ranger’/right answer
+‘Murder, She Wrote’
+
+
+Who co-starred with Norris in ‘Walker, Texas Ranger?’
+Paul Haggis
+Leslie Greif
+Clarence Gilyard Jr./right answer
+Noble Willingham
+
+
+Chuck says he has ancestry from _______ and ______?
+Irish, Cherokee/right answer
+German, English
+French, Blackfeet
+Chinese, Dutch
+
+
+Who was Chuck named after?
+His father’s minister./right answer
+His mother’s father.
+His father’s barber.
+His mother’s boss.
+
+
+In what movie was Chuck part of an ensemble cast of action heroes?
+‘The Expendables 2’/right answer
+‘Clue’
+‘Die Hard’
+‘Star Wars’
+
