@@ -6,7 +6,7 @@ include "includes/data-collector.php";
     <label for="quiz-topic" class="form-label">Quiz choose topic</label>
     <select class="form-select form-select-lg mb-3" aria-label=".form-select-lg example" id="topic" name="topic">
     <option value="ANIMALS">Animals</option> 
-    <!--  <option value="music">Music</option>
+     <option value="music">Music</option>
       <option value="ch-norris">Chuck Norris</option>
       <option value="movies">Movies</option>
       <option value="d-n-d">Dungeons-n-Dragons</option>
@@ -18,7 +18,7 @@ include "includes/data-collector.php";
       <option value="science">Science</option>
       <option value="informatics">Informatics</option>
       <option value="gen-knowledge">General Knowledge</option>
-     --></select>
+    </select>
     <br>
     <label class="form-label" for="questionNum">How many question choose between (5-40)</label>
     <input type="number" for="questionNum" class="form-control" id="questionNum" name="questionNum" min="1" max="30"

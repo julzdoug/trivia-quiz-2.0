@@ -34,7 +34,7 @@
             <div class="py-2 h5"><b>
                     <?php echo ($currentQuestionIndex + 1); ?>of<?php echo $quiz["questionNum"]; ?>
                     <br>
-                    <?php echo $question["question_text"]; ?>
+                    <?php echo $question["question"]; ?>
                 </b></div>
             <br>
             <!--new try -->
